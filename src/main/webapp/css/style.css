@@ -1,0 +1,15 @@
+.complete {
+    text-decoration: line-through;
+    color: gainsboro !important;
+}
+
+.messages {
+    text-align: center;
+    border: 0;
+    width: 10em;
+    display: block;
+    font-size: 18px;
+    color: #998970;
+    cursor: default;
+    word-wrap: break-word;
+}
